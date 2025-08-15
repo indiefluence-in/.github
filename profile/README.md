@@ -48,9 +48,19 @@ Every project is shaped by:
 
 We collaborate with brands, startups, and entrepreneurs to launch **beautiful, functional, and impactful** digital products.
 
-📌 **Website:** [indiefluence.in](https://indiefluence.in)
-📌 **LinkedIn:** [Indiefluence](https://linkedin.com/company/indiefluence-in)
-📌 **Instagram:** [@indiefluence](https://instagram.com/indiefluence)
+<p align="center">
+  <a href="https://indiefluence.in" target="_blank">
+    <img src="https://indiefluence.in/assets/indiefluence-hinid-logo-Bx9K-275.svg" alt="Website" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/company/indiefluence-in" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/indiefluence" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram" width="40" />
+  </a>
+</p>
 
 ---
 

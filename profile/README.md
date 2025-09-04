@@ -6,7 +6,7 @@
 
 # 👋 Welcome to Indiefluence
 
-We’re **Indiefluence** — a creative + tech team that blends **design psychology** with **full-stack web development** to build brands and digital products that stand out.
+We’re **Indiefluence** - a creative + tech team that blends **design psychology** with **full-stack web development** to build brands and digital products that stand out.
 
 ## 🚀 What We Build
 
@@ -17,7 +17,7 @@ We’re **Indiefluence** — a creative + tech team that blends **design psychol
   Scalable stores with optimized product architecture, smooth checkout flows, and integrated analytics.
 
 - **API-Driven Backends**
-  Secure, efficient, and built to handle growth — from REST APIs to GraphQL endpoints.
+  Secure, efficient, and built to handle growth - from REST APIs to GraphQL endpoints.
 
 - **Interactive UI/UX**
   Human-centered design meets clean, responsive code for flawless cross-device experiences.
@@ -35,12 +35,12 @@ We’re **Indiefluence** — a creative + tech team that blends **design psychol
 
 ## 💡 How We Work
 
-We don’t just write code — we **engineer experiences**.
+We don’t just write code - we **engineer experiences**.
 Every project is shaped by:
 
-1. **User Psychology** — making products intuitive and conversion-friendly.
-2. **Performance First** — speed and scalability are baked in from day one.
-3. **Clean Architecture** — maintainable, modular, and future-ready.
+1. **User Psychology** - making products intuitive and conversion-friendly.
+2. **Performance First** - speed and scalability are baked in from day one.
+3. **Clean Architecture** - maintainable, modular, and future-ready.
 
 ---
 

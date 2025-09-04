@@ -50,7 +50,7 @@ We collaborate with brands, startups, and entrepreneurs to launch **beautiful, f
 
 <p align="center">
   <a href="https://indiefluence.in" target="_blank">
-    <img src="https://indiefluence.in/assets/indiefluence-hinid-logo-Bx9K-275.svg" alt="Website" width="40" />
+    <img src="https://indiefluence.in/assets//assets/indiefluence-hinid-logo.svg" alt="Website" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/company/indiefluence-in" target="_blank">
